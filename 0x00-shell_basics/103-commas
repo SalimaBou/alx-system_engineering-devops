@@ -1,2 +1,2 @@
-#!/bin/shall
+#!/bin/bash
 ls -xamp
