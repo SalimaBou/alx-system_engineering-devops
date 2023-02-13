@@ -1,2 +1,2 @@
 #!/bin/bash
-cat -n iacta | grep -E "[ \t]+2"
+awk 'NR=={print;exit}' iacta
